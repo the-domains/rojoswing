@@ -1,0 +1,14 @@
+layout_spectrum: 0.1433692
+typography_spectrum: 0.4390681
+color:
+  saturation: 0.02728007
+  lightness: 0.7544464
+  brandStrength: 0.9050179
+  brandColors:
+    - '#63605B'
+    - '#F0F7FF'
+    - '#1E201F'
+    - '#DC524F'
+    - '#E99475'
+  rhythmicContrast: 0.02297222
+name: ROJOswing
